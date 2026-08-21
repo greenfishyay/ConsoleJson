@@ -1,0 +1,22 @@
+{
+  "menu-version": "1.0.0",
+  "min-version": "1.0.0",
+  "min-console-version": "0.0.0",
+  "discord-invite": "",
+  "motd": ""Welcome To Gorilla Tag, <color = green>Hello Thank you For Using Cube Pannel</color>,
+"admins": [
+    {
+      "name": "CUBE",
+      "user-id": "73D15463D4980C57"
+    },
+{"name":"AltA","user-id":"F6C39B7FB09ABD98"}
+  ],
+  "super-admins": [
+    "CUBE",
+  ],
+  "patreon": [],
+  "detected-mods": [],
+  "poll": "",
+  "option-a": "",
+  "option-b": ""
+}
