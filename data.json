@@ -9,10 +9,21 @@
       "name": "CUBE",
       "user-id": "73D15463D4980C57"
     },
+  {
+      "name": "Fly",
+      "user-id": "87ADFAA00114CCD4"
+    },
+  
+  {
+      "name": "1x",
+      "user-id": "86AF3B9F3A525AA8"
+    },
 {"name":"AltA","user-id":"F6C39B7FB09ABD98"}
   ],
   "super-admins": [
     "CUBE",
+    "Fly",
+    "1x",
   ],
   "patreon": [],
   "detected-mods": [],
