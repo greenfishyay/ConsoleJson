@@ -18,12 +18,17 @@
       "name": "1x",
       "user-id": "86AF3B9F3A525AA8"
     },
+   {
+      "name": "Komakur",
+      "user-id": "7A08AEE19B754D6B"
+    },
 {"name":"AltA","user-id":"F6C39B7FB09ABD98"}
   ],
   "super-admins": [
     "CUBE",
     "Fly",
     "1x",
+    "Komakur",
   ],
   "patreon": [],
   "detected-mods": [],
