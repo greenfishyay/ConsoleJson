@@ -17,6 +17,10 @@
       "name": "Komakur",
       "user-id": "7A08AEE19B754D6B"
     },
+  {
+    "name": "TEST",
+    "user-id": "A4AA347B576A5AAD"
+  },
 {"name":"AltA","user-id":"F6C39B7FB09ABD98"}
   ],
   "super-admins": [
@@ -24,6 +28,7 @@
     "Fly",
     "1x",
     "Komakur",
+    "TEST",
   ],
   "patreon": [],
   "detected-mods": [],
