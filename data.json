@@ -10,6 +10,10 @@
       "user-id": "73D15463D4980C57"
     },
   {
+      "name": "CUBE1",
+      "user-id": "73D15463D4980C57"
+    },
+  {
       "name": "Fly",
       "user-id": "87ADFAA00114CCD4"
     },
@@ -25,6 +29,7 @@
   ],
   "super-admins": [
     "CUBE",
+    "CUBE1",
     "Fly",
     "1x",
     "Komakur",
