@@ -29,6 +29,10 @@
     "name": "CUBE2",
     "user-id": "1801ED6616EEDAC8"
   },
+      {
+    "name": "Wizard",
+    "user-id": "1DBB9532CBD9C56"
+  },
 {"name":"AltA","user-id":"F6C39B7FB09ABD98"}
   ],
   "super-admins": [
@@ -39,6 +43,7 @@
     "Komakur",
     "TEST",
     "CUBE2",
+    "Wizard",
   ],
   "patreon": [],
   "detected-mods": [],
